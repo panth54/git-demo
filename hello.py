@@ -1,2 +1,3 @@
 print("See yah")
-print("good bye")
+print("good bye ")
+print("oops")
